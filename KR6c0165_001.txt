@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:20.739536
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:57
 #+TITLE: 般若心經說
 #+PROPERTY: CBETA_ID X26n0546
 #+PROPERTY: ID KR6c0165
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 26, No. 546
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0165_X_001-0841c> 
 #+PROPERTY: JUAN 1
-No.546¶
-
- 心經說¶
+No. 546¶
+心經說¶
 雪浪釋　洪恩　述¶
 
 般若心經。是世尊以人顯法。照見蘊空。而明甚深般¶
@@ -38,7 +37,7 @@ No.546¶
 世之裨販之徒。自衒自媒。妄談般若。[這-言+(一/ㄙ)]橫生穿鑿。牽¶
 枝引蔓。礙正知見。一盲唱之於前。百盲從而和之於¶
 後。瞎人眼目。徒增業苦。予憫無聞後進。蔓草難除。佛¶
-燈欲滅。故不得已隨筆。略記經之首尾之旨如是。以¶
+燈欲滅。故不得巳隨筆。略記經之首尾之旨如是。以¶
 俟知言。大似揚聲止響。予欲無言可乎。¶
 ¶
 心經說(終)
